@@ -52,3 +52,8 @@ passwd - Create or update passwords for existing users
 //added new text
 
 root@ubuntu:~# cd <directory path>
+
+//added new directories
+root@ubuntu:~# cd <directory path1>
+root@ubuntu:~# cd <directory path2>
+root@ubuntu:~# cd <directory path2>
